@@ -35,13 +35,11 @@ hr {
 /* colored tiles */
 
 .x2 {
-    background-color: #eee4da;
-    color: #727371;
+    image: /assets/bek.jpg
 }
 
 .x4 {
-    background-color: #ece0ca;
-    color: #727371;
+    image: /assets/arg.jpg
 }
 
 .x8 {
